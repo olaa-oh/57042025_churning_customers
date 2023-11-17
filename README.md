@@ -30,3 +30,4 @@ Evaluation
 Metrics like ROC AUC score, accuracy, precision, and recall are used to assess the model's performance. The generalisation abilities of the model are evaluated using a hold-out test set and cross-validation.
 Outcomes
 The trained model obtains an 83% AUC score and accuracy score , 
+video = https://drive.google.com/file/d/17EjXbS4fV08l-ifGlYApQEJWjn0B04iZ/view?usp=drive_link
